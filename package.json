@@ -1,0 +1,23 @@
+{
+  "name": "js-linked-lists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linked-lists.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just2102/JS-Linked-Lists.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/just2102/JS-Linked-Lists/issues"
+  },
+  "homepage": "https://github.com/just2102/JS-Linked-Lists#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
